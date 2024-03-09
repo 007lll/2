@@ -1,0 +1,11 @@
+**/target
+
+# JetBrains IntelliJ
+**/.idea/
+**/*.iml
+
+# Eclipse
+**/.settings
+**/.project
+**/.classpath
+/dist/
